@@ -15,6 +15,6 @@
 -Geographic Content Insights: Uncover the top contributing countries for Netflix content and how content type (movie/TV show) and genre vary by region.
 -Rating & Audience Analysis: Explore the distribution of content ratings, identifying correlations between ratings and content type or duration, and potential target audiences.
 -Director & Cast Impact: Identify prolific directors and cast members, analyzing their contribution to the Netflix library and the popularity of their associated titles.
-#Conclusion
+# Conclusion
 This Netflix dataset Power BI analysis reveals key insights into content distribution, identifying dominant genres and countries, and highlighting trends in content addition over time. The dashboard effectively visualizes these patterns, offering a comprehensive overview of Netflix's content library and its evolution.
 
