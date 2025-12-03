@@ -6,3 +6,5 @@
  -Which countries produce the most content on Netflix?
  -How has the distribution of content (movies vs. TV shows) changed over time?
  -What is the average rating or popularity score for content in different genres or countries?
+ <img width="855" height="468" alt="image" src="https://github.com/user-attachments/assets/c3e1a175-c033-40e9-86b2-cc0719b4b7db" />
+
